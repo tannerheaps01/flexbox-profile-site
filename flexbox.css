@@ -1,0 +1,30 @@
+.container{
+	display: flex;
+}
+
+.picture{
+	height: 100vh;
+	padding-right: 20px;
+}
+h1{
+	padding-left: 80px;
+}
+h3{
+	padding-left: 80px;
+}
+p{
+	font-family: arail;
+}
+.button{
+	padding: 15px;
+	background-color: blue;
+	text-decoration: none;
+	color: white;
+	border-radius: 12px;
+	margin-left: 20%;
+	
+}
+a:hover {
+	background-color: #8042f4;
+	
+}
